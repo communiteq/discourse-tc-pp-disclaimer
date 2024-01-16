@@ -1,0 +1,8 @@
+show_in_category_ids:
+  default: "341"
+  type: list
+  description: "The ID's of the categories that the disclaimer needs to be shown in."
+
+disclaimer_html:
+  default: "<b>DISCLAIMER:</b> The following content does not reflect the opinions of Peak Prosperity, but is rather a summarization of content that has caught the interest of members of the community.<br /><br />Discussion is welcome in the comments section!"
+  description: "The HTML for the disclaimer."
