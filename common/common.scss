@@ -1,11 +1,15 @@
 .alert.alert-disclaimer {
-    border-color: #cdbb7a;
-    background-color: #eedba7;
-    color: #6f590e;
+    border-color: #bcbebf;
+    background-color: #d3d3d4;
+    color: #141619;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding-right: 1em;
+    span a {
+        color: #101214;
+        text-decoration: underline;
+    }
     button {
         min-width: 140px;
         margin-left: auto; /* push button to the right */
